@@ -9,6 +9,16 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seka, para re
 
 - Comentários
 - Declaração de variáveis (const, let)
+- Operadores (atribuição, concatenação, matemático, lógicos)
+- Tipos de dados (string, number, boolean)
+- Estrutura de dados (functions, object, array)
+- Controle de fluxo (if/else)
+- Estrutura de repetição (for, while)
+
+## Peças de uma linguagem
+
+- Comentários
+- Declaração de variáveis (const, let)
 - Operadores (atibuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
 - Estrutura de dados (functions, object, array)
@@ -30,11 +40,13 @@ Constantes
 
 Strings (textos): "" '' ``
 Number: 2 1.4
+Boolean: true, false
 
 ## Operadores
 
 Operadores de atribuição de valor =
-Operador de Concatenação
+Operador de Concatenação +
+Operadores de Comparação ==
 
 ## Estruturas de dados:
 
@@ -48,9 +60,16 @@ Atributos e métodos
 Criação e manipulação de objetos
 Acesso e propriedades de objetos
 
+### Functions
+
+Criar, passar argumento
+Executar
+Arrow function / named function
+
 ## Condicionais
 
-swith
+Swith
+Controle de fluxo ( if/else)
 
 # Estrutura de repetição
 
@@ -60,3 +79,7 @@ while
 
 Importação de módulos (require, CommonJS)
 Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises
+
+Uso de funções assíncronas (async/await)
