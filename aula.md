@@ -20,3 +20,17 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seka, para re
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## Variáveis e Escopo
+
+Variáveis globais e locais (Global fora de {} Locais, dentro!)
+Constantes
+
+## Tipos de dados
+
+Strings (textos): "" '' ``
+Number: 2 1.4
+
+## Operadores
+
+Operadores de atribuição de valor =
