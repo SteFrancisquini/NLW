@@ -49,3 +49,14 @@ Criação e manipulação de objetos
 Acesso e propriedades de objetos
 
 ## Condicionais
+
+swith
+
+# Estrutura de repetição
+
+while
+
+## Módulos em Jode.js:
+
+Importação de módulos (require, CommonJS)
+Biblioteca 'inquirer' para criar prompts interativos
