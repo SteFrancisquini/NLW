@@ -1,7 +1,7 @@
 ## Linguagem de Programação
 
 Maneira de dar instrução ao computador.
-Como um lego, você irá utilizar peças para criar algoritmos, ou seka, para resolver problemas.
+Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
 💡 **Algotitmos**: Sequência de passos lógica e finita para resolução de um problema.
 
@@ -46,7 +46,7 @@ Boolean: true, false
 
 Operadores de atribuição de valor =
 Operador de Concatenação +
-Operadores de Comparação ==
+Operadores de Comparação == != <= => < >
 Spreed operator: ...
 
 ## Estruturas de dados:
@@ -75,9 +75,9 @@ Controle de fluxo ( if/else)
 
 # Estrutura de repetição
 
-while
+While
 
-## Módulos em Jode.js:
+## Módulos em Node.js:
 
 Importação de módulos (require, CommonJS)
 Biblioteca 'inquirer' para criar prompts interativos
