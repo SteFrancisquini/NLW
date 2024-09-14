@@ -47,12 +47,14 @@ Boolean: true, false
 Operadores de atribuição de valor =
 Operador de Concatenação +
 Operadores de Comparação ==
+Spreed operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays:
 
 Uma lista que contém qualquer tipo de dado
+Métodos de arrays: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
