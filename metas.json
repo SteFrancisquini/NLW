@@ -1,0 +1,21 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": true
+  },
+
+  {
+    "value": "Assistir a live de encerramento da NWL",
+    "checked": true
+  },
+
+  {
+    "value": "Academia 5x por semana",
+    "checked": true
+  },
+
+  {
+    "value": "Terminar X-men",
+    "checked": false
+  }
+]

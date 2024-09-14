@@ -81,6 +81,13 @@ While
 
 Importação de módulos (require, CommonJS)
 Biblioteca 'inquirer' para criar prompts interativos
+FS (File System)
+
+## JSON
+
+JavaScript Object Notation (.json)
+JSON.parse() : transforma JSON em JS
+JSON.stringify() : transforma de JS para JSON
 
 ## Programação assíncrona e Promises
 
